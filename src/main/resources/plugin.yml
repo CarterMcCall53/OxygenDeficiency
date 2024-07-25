@@ -1,0 +1,7 @@
+name: OxygenDeficiency
+version: '1.0'
+main: dev.cmccall.oxygenDeficiency.OxygenDeficiency
+api-version: '1.21'
+authors: [ Carter McCall ]
+description: Plugin that makes going into certain altitudes a little... annoying
+website: https://www.cmccall.dev/home
